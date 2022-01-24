@@ -1,5 +1,5 @@
 # cloud-computing-system-implementation
-Cloud Computing System Implementation to Expand the Capabilities of a Latin America University
+Reasearch about Cloud Computing System Implementation to Expand the Capabilities of a Latin America University
 
 ## Abstract
 This degree work is about the possibility of implementing Cloud Computing in an academic context. In order to expand the capabilities of virtual servers within the data center from Ingeniería Civil Informática at Universidad Católica de Temuco. The objective is to take advantage of implementation and study the benefits of Cloud Computing and Infrastructure as a Service. In an exploratory way, the concepts and documentation necessary to achieve a functional implementation of the OpenStack system are reviewed. Once implemented, a functional test is realized to validate the deployment. Finally, the benefits are analyzed and a conclusion is made about the work.
