@@ -1,7 +1,7 @@
 # cloud-computing-system-implementation
 Research about Cloud Computing System Implementation to Expand the Capabilities of a Latin America University
 
-[Cover Page]:https://github.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack/blob/main/img/Portada.jpg?raw=true
+![Cover Page]: https://raw.githubusercontent.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack/main/img/Portada.jpg
 
 
 ## Abstract
